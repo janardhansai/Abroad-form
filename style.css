@@ -1,0 +1,26 @@
+body{
+    background: url(education-abroad-.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: orange;
+}
+
+}
+form#Appointment{
+    margin: 40px;
+}
+
+label{
+    font-family: sans-serif;
+    font-size: 21px;
+    font-style: oblique;
+}
+input#name{
+    width: 300px;
+    border:1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color:#fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
